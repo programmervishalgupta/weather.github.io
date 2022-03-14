@@ -1,0 +1,23 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background: rgb(225, 0, 254);
+	background: linear-gradient(-45deg, rgba(225, 0, 254, 1) 0%, rgba(17, 24, 117, 1) 100%);
+}
+
+
+.details .card-body{
+		background:#FFFFFF50 ;
+
+}
+hr{
+	height: 5px;
+	border:2px solid white;
+	background-color: white ;
+}
+#locat {
+}
